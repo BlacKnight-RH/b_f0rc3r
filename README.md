@@ -12,6 +12,7 @@
 
 
 create a list of strings based on user input in plain or hashed text 
+can be useful in dictionary \ brute force  attack 
 support : base64 , MD5 , SHA1 , SHA256 , SHA512 
 
 ## Usage 
