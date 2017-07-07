@@ -1,7 +1,7 @@
 # b_f0tc3r
-[![Python 2.7](https://img.shields.io/travis/request/request/master.svg?style=flat-square)]
 
-     ____  _            _        _  __      _       _     _   
+
+                 ____  _            _        _  __      _       _     _   
 		| __ )| | __ _  ___| | __   | |/ /_ __ (_) __ _| |__ | |_ 
 		|  _ \| |/ _` |/ __| |/ /   | ' /| '_ \| |/ _` | '_ \| __|
 		| |_) | | (_| | (__|   <    | . \| | | | | (_| | | | | |_ 
@@ -19,7 +19,7 @@ python b_f0rc3r.py -c <charset> -l <length> [ -o <outputfile> -x <hash_type> -p 
 
 ```js
 
--h      show help menu'
+-h      show help menu
 -c      charset combination
 -l      length of the output (complexity)
 -o      output file
